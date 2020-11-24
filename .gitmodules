@@ -1,0 +1,3 @@
+[submodule "Algorithms/Water_Constituents/Machine_Learning/MDN"]
+	path = Algorithms/Water_Constituents/Machine_Learning/MDN
+	url = https://github.com/BrandonSmithJ/MDN
