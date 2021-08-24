@@ -1,1 +1,1 @@
-git clone --recursive https://github.com/STREAM-RS/STREAM-RS
+git clone --recursive --remote-submodules https://github.com/STREAM-RS/STREAM-RS

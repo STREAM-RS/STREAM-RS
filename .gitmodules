@@ -2,3 +2,4 @@
 	path = Algorithms/Water_Constituents/Machine_Learning/MDN
 	url = https://github.com/STREAM-RS/MDN
 	branch = master
+	shallow = true
