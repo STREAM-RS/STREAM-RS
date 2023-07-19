@@ -3,3 +3,6 @@
 	url = https://github.com/STREAM-RS/MDN
 	branch = master
 	shallow = true
+[submodule "Algorithms/Water_Constituents/Machine_Learning/MDN-Simultaneous_BPs_IOPs"]
+	path = Algorithms/Water_Constituents/Machine_Learning/MDN-Simultaneous_BPs_IOPs
+	url = https://github.com/ryan-edward-oshea/MDN
