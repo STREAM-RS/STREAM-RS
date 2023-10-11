@@ -6,3 +6,6 @@
 [submodule "Algorithms/Water_Constituents/Machine_Learning/MDN-Simultaneous_BPs_IOPs"]
 	path = Algorithms/Water_Constituents/Machine_Learning/MDN-Simultaneous_BPs_IOPs
 	url = https://github.com/ryan-edward-oshea/MDN
+[submodule "Algorithms/Water_Constituents/Machine_Learning/MDN_V2"]
+	path = Algorithms/Water_Constituents/Machine_Learning/MDN_V2
+	url = https://github.com/ryan-edward-oshea/MDN_V2.git
