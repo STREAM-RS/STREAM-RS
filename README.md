@@ -14,7 +14,7 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 2. Navigate to directory:<br/> 
 	**cd Aquaverse**<br/> 
 3. Clone tutorials repo: <br/> 
-	**git clone https://github.com/ryan-edward-oshea/MDN_tutorials.git**<br/> 
+	**git clone hhttps://github.com/STREAM-RS/aqv-tutorials**<br/> 
 4. Skip if using conda: Install Python 3.12  <br/> 
 5. Create a virtual environment: <br/> 
 	**python3.12 -m venv AQV_env_11_19_25**<br/> 
@@ -28,11 +28,12 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 8. Install the MDN into the python environment and update dependencies:<br/> 
 	**pip install git+https://github.com/STREAM-RS/MDN-STREAM.git@development**<br/> 
 9. Start JupyterHub notebook in command line with: <br/> 
-	**jupyter-notebook** <br/> 
+	**jupyter-lab** <br/> 
 10. Open the tutorials: <br/> 
 	./MDN_tutorials/SC_1_.... <br/> 
 	
 Common issues:<br/>
 1. Unable to install Latex --> add "mpl.rcParams['text.usetex']=False" before generating plots. <br/>
 2. Do not install MDN wihin Box/Onedrive folder.<br/>
-
+3. With Mac, may need to run:
+	**pip install tf_keras --no-deps**<br/>
