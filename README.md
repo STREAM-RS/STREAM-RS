@@ -26,7 +26,7 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 7. Update pip: <br/>
 	**python -m pip install --upgrade pip** <br/>
 8. Install the MDN into the python environment and update dependencies:<br/> 
-	**pip install git+https://github.com/STREAM-RS/MDN-STREAM.git@development**<br/> 
+	**pip install git+https://github.com/STREAM-RS/MDN-STREAM.git**<br/> 
 9. Start JupyterHub notebook in command line with: <br/> 
 	**jupyter-lab** <br/> 
 10. Open the tutorials: <br/> 
