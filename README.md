@@ -27,7 +27,7 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 	**python -m pip install --upgrade pip** <br/>
 8. Install the MDN into the python environment and update dependencies:<br/> 
 	**pip install git+https://github.com/STREAM-RS/MDN-STREAM.git**<br/>
-9. Install tf-keras
+9. Install tf-keras<br/> 
     **pip install tf-keras --no-deps*<br/>
 11. Start JupyterHub notebook in command line with: <br/> 
 	**jupyter-lab** <br/> 
