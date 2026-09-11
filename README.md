@@ -14,7 +14,7 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 2. Navigate to directory:<br/> 
 	**cd Aquaverse**<br/> 
 3. Clone tutorials repo: <br/> 
-	**git clone hhttps://github.com/STREAM-RS/aqv-tutorials**<br/> 
+	**git clone https://github.com/STREAM-RS/aqv-tutorials**<br/> 
 4. Skip if using conda: Install Python 3.12  <br/> 
 5. Create a virtual environment: <br/> 
 	**python3.12 -m venv AQV_env_11_19_25**<br/> 
