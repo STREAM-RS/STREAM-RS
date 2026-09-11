@@ -17,12 +17,12 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 	**git clone https://github.com/STREAM-RS/aqv-tutorials**<br/> 
 4. Skip if using conda: Install Python 3.12  <br/> 
 5. Create a virtual environment: <br/> 
-	**python3.12 -m venv AQV_env_11_19_25**<br/> 
-	or with conda: **conda create -n AQV_env_11_19_25 python=3.12**<br/> 
+	**python3.12 -m venv AQV_env_09_10_26**<br/> 
+	or with conda: **conda create -n AQV_env_09_10_26 python=3.12**<br/> 
 6. Activate the environment:<br/> 
-	Mac/Linux:**source AQV_env_11_19_25/bin/activate**<br/>
-	Windows:**AQV_env_11_19_25\Scripts\activate**<br/> 
-	or with conda: **conda activate AQV_env_11_19_25**<br/>
+	Mac/Linux:**source AQV_env_09_10_26/bin/activate**<br/>
+	Windows:**AQV_env_09_10_26\Scripts\activate**<br/> 
+	or with conda: **conda activate AQV_env_09_10_26**<br/>
 7. Update pip: <br/>
 	**python -m pip install --upgrade pip** <br/>
 8. Install the MDN into the python environment and update dependencies:<br/> 
