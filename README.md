@@ -39,5 +39,5 @@ Common issues:<br/>
    **conda install -c conda-forge rasterio=1.4.3** <br/>
 
 
-To install the full STREAM-RS repo run: git clone --recursive --remote-submodules https://github.com/STREAM-RS/STREAM-RS
+To install the full STREAM-RS repo (not necessary for the tutorials) run: git clone --recursive --remote-submodules https://github.com/STREAM-RS/STREAM-RS
 
