@@ -1,5 +1,3 @@
-git clone --recursive --remote-submodules https://github.com/STREAM-RS/STREAM-RS
-
 Tutorials for using MDNs with in situ measurements and satellite imagery<br/> 
 Requirements:<br/>
 	-**Conda** or **pip** to create a virtual environment | https://github.com/conda-forge/miniforge or https://docs.anaconda.com/miniconda/ <br/> 
@@ -38,4 +36,8 @@ Common issues:<br/>
 1. Unable to install Latex --> add "mpl.rcParams['text.usetex']=False" before generating plots. <br/>
 2. Do not install MDN wihin Box/Onedrive folder.<br/>
 3. With Linux/conda may need to install rasterio yourself:<br/> 
-   **conda install -c conda-forge rasterio=1.4.3** <br/> 
+   **conda install -c conda-forge rasterio=1.4.3** <br/>
+
+
+To install the full STREAM-RS repo run: git clone --recursive --remote-submodules https://github.com/STREAM-RS/STREAM-RS
+
