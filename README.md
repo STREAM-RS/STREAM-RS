@@ -3,7 +3,6 @@ Requirements:<br/>
 	-**Conda** or **pip** to create a virtual environment | https://github.com/conda-forge/miniforge or https://docs.anaconda.com/miniconda/ <br/> 
 	-**(if not using Conda) Python V3.12**   <br/> 
 	-**git**     | https://github.com/git-guides/install-git <br/> 
-	-**git-lfs** | https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage <br/> 
 	
 	
 Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/> 
@@ -37,7 +36,8 @@ Common issues:<br/>
 2. Do not install MDN wihin Box/Onedrive folder.<br/>
 3. With Linux/conda may need to install rasterio yourself:<br/> 
    **conda install -c conda-forge rasterio=1.4.3** <br/>
-
+Git LFS should no longer be necessary:
+	-**git-lfs** | https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage <br/> 
 
 To install the full STREAM-RS repo (not necessary for the tutorials) run: git clone --recursive --remote-submodules https://github.com/STREAM-RS/STREAM-RS
 
