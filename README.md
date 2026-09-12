@@ -37,5 +37,5 @@ Installation steps to be run in in Terminal (or Command Prompt for Windows):<br/
 Common issues:<br/>
 1. Unable to install Latex --> add "mpl.rcParams['text.usetex']=False" before generating plots. <br/>
 2. Do not install MDN wihin Box/Onedrive folder.<br/>
-3. With Mac and windows, may need to run:
-	**pip install tf_keras --no-deps**<br/>
+3. With Linux/conda may need to install rasterio yourself
+   **conda install -c conda-forge rasterio=1.4.3** <br/> 
