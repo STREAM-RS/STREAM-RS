@@ -36,8 +36,13 @@ Common issues:<br/>
 2. Do not install MDN wihin Box/Onedrive folder.<br/>
 3. With Linux/conda may need to install rasterio yourself:<br/> 
    **conda install -c conda-forge rasterio=1.4.3** <br/>
+4. On M1/M2 macs may need to run the following prior to step 8:
+   **conda install conda-forge::rasterio**
+	**conda install conda-forge::netcdf4**
+	**conda install conda-forge::psycopg2-binary**
+
+
 Git LFS should no longer be necessary:
 	-**git-lfs** | https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage <br/> 
-
 To install the full STREAM-RS repo (not necessary for the tutorials) run: git clone --recursive --remote-submodules https://github.com/STREAM-RS/STREAM-RS
 
