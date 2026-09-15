@@ -40,7 +40,7 @@ Common issues:<br/>
    **conda install conda-forge::rasterio**<br/>
 	**conda install conda-forge::netcdf4**<br/>
 	**conda install conda-forge::psycopg2-binary**<br/>
-5. If using UV:
+5. If using UV:<br/> 
    **uv pip install GitPython**<br/>
    **import git**<br/>
    
