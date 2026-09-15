@@ -40,6 +40,10 @@ Common issues:<br/>
    **conda install conda-forge::rasterio**<br/>
 	**conda install conda-forge::netcdf4**<br/>
 	**conda install conda-forge::psycopg2-binary**<br/>
+5. If using UV:
+   **uv pip install GitPython**<br/>
+   **import git**<br/>
+   
 
 
 Git LFS should no longer be necessary:
